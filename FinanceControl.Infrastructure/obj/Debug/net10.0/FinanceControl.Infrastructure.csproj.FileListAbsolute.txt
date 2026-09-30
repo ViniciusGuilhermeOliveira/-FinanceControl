@@ -1,0 +1,17 @@
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/bin/Debug/net10.0/FinanceControl.Infrastructure.deps.json
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/bin/Debug/net10.0/FinanceControl.Infrastructure.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/bin/Debug/net10.0/FinanceControl.Infrastructure.pdb
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/bin/Debug/net10.0/FinanceControl.Application.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/bin/Debug/net10.0/FinanceControl.Domain.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/bin/Debug/net10.0/FinanceControl.Application.pdb
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/bin/Debug/net10.0/FinanceControl.Domain.pdb
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceControl.Infrastructure.csproj.AssemblyReference.cache
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceControl.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceControl.Infrastructure.AssemblyInfoInputs.cache
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceControl.Infrastructure.AssemblyInfo.cs
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceControl.Infrastructure.csproj.CoreCompileInputs.cache
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceC.6FBE02E6.Up2Date
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceControl.Infrastructure.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/refint/FinanceControl.Infrastructure.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceControl.Infrastructure.pdb
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/ref/FinanceControl.Infrastructure.dll

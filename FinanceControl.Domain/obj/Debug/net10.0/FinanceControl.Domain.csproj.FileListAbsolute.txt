@@ -1,0 +1,11 @@
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/bin/Debug/net10.0/FinanceControl.Domain.deps.json
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/bin/Debug/net10.0/FinanceControl.Domain.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/bin/Debug/net10.0/FinanceControl.Domain.pdb
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/Debug/net10.0/FinanceControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/Debug/net10.0/FinanceControl.Domain.AssemblyInfoInputs.cache
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/Debug/net10.0/FinanceControl.Domain.AssemblyInfo.cs
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/Debug/net10.0/FinanceControl.Domain.csproj.CoreCompileInputs.cache
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/Debug/net10.0/FinanceControl.Domain.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/Debug/net10.0/refint/FinanceControl.Domain.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/Debug/net10.0/FinanceControl.Domain.pdb
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/Debug/net10.0/ref/FinanceControl.Domain.dll

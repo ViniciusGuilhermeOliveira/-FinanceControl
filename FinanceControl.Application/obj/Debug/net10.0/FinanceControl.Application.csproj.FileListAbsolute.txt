@@ -1,0 +1,15 @@
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/bin/Debug/net10.0/FinanceControl.Application.deps.json
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/bin/Debug/net10.0/FinanceControl.Application.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/bin/Debug/net10.0/FinanceControl.Application.pdb
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/bin/Debug/net10.0/FinanceControl.Domain.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/bin/Debug/net10.0/FinanceControl.Domain.pdb
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceControl.Application.csproj.AssemblyReference.cache
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceControl.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceControl.Application.AssemblyInfoInputs.cache
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceControl.Application.AssemblyInfo.cs
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceControl.Application.csproj.CoreCompileInputs.cache
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceC.699E4819.Up2Date
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceControl.Application.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/refint/FinanceControl.Application.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceControl.Application.pdb
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/ref/FinanceControl.Application.dll
