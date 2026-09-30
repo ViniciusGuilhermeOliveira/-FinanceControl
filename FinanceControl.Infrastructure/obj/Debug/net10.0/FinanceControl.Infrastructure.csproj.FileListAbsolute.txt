@@ -15,3 +15,4 @@
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/refint/FinanceControl.Infrastructure.dll
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceControl.Infrastructure.pdb
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/ref/FinanceControl.Infrastructure.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceControl.Infrastructure.sourcelink.json

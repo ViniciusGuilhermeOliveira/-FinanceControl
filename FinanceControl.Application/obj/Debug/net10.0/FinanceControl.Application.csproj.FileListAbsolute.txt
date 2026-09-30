@@ -13,3 +13,4 @@
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/refint/FinanceControl.Application.dll
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceControl.Application.pdb
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/ref/FinanceControl.Application.dll
+/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceControl.Application.sourcelink.json

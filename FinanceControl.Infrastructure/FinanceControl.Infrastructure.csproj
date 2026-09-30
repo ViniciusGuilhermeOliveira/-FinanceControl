@@ -4,6 +4,15 @@
     <ProjectReference Include="..\FinanceControl.Application\FinanceControl.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="dbup-sqlite" Version="6.0.4" />
+  </ItemGroup>
+  
+  <!-- adicionando codigo para compilar os scripts dentro da DLL -->
+  <ItemGroup>
+    <EmbeddedResource Include="Scripts\**\*.sql" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

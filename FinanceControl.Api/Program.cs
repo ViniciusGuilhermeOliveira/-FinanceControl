@@ -7,6 +7,17 @@ builder.Services.AddEndpointsApiExplorer();
 
 var app = builder.Build();
 
+string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+SQLitePCL.Batteries.Init();
+
+if (connectionString != null)
+{
+    FinanceControl.Infrastructure.DatabaseMigration.AtualizarBancoDeDados(connectionString);    
+}
+
+
+
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
@@ -21,8 +32,5 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.Run();
-
-var teste = new FinanceControl.Infrastructure.Class1();
-teste.nome = "teste";
 
 
