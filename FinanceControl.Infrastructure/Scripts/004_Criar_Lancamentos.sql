@@ -1,8 +1,8 @@
 CREATE TABLE lancamentos (
-    lan_id_lan INTEGER PRIMARY KEY AUTO_INCREMENT,  --id_lancamento
+    lan_id_lan INTEGER PRIMARY KEY AUTOINCREMENT,  --id_lancamento
     lan_des_lan VARCHAR(100) NOT NULL,          --descricao
     lan_val_lan DECIMAL(10, 2) NOT NULL,        --valor
-    lan_tip_lan ENUM('ENTRADA', 'CONTA_FIXA', 'FATURA_CARTAO', 'DESPESA_AVULSA') NOT NULL,--tipo_lancamento
+    lan_tip_lan TEXT CHECK(lan_tip_lan IN ('ENTRADA', 'CONTA_FIXA', 'FATURA_CARTAO', 'DESPESA_AVULSA')) NOT NULL,--tipo_lancamento
     lan_dat_com DATE NOT NULL,                  --data_competencia
     lan_dat_pag_rec DATE NOT NULL,              --data_pagamento_recebimento
     lan_car_id_car INTEGER NULL,                    --id_cartao
