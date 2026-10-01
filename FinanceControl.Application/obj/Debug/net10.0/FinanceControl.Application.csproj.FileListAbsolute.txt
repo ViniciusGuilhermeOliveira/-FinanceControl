@@ -14,3 +14,19 @@
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceControl.Application.pdb
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/ref/FinanceControl.Application.dll
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/Debug/net10.0/FinanceControl.Application.sourcelink.json
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\bin\Debug\net10.0\FinanceControl.Application.deps.json
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\bin\Debug\net10.0\FinanceControl.Application.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\bin\Debug\net10.0\FinanceControl.Application.pdb
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\bin\Debug\net10.0\FinanceControl.Domain.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\bin\Debug\net10.0\FinanceControl.Domain.pdb
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\obj\Debug\net10.0\FinanceControl.Application.csproj.AssemblyReference.cache
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\obj\Debug\net10.0\FinanceControl.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\obj\Debug\net10.0\FinanceControl.Application.AssemblyInfoInputs.cache
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\obj\Debug\net10.0\FinanceControl.Application.AssemblyInfo.cs
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\obj\Debug\net10.0\FinanceControl.Application.csproj.CoreCompileInputs.cache
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\obj\Debug\net10.0\FinanceControl.Application.sourcelink.json
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\obj\Debug\net10.0\FinanceC.699E4819.Up2Date
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\obj\Debug\net10.0\FinanceControl.Application.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\obj\Debug\net10.0\refint\FinanceControl.Application.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\obj\Debug\net10.0\FinanceControl.Application.pdb
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Application\obj\Debug\net10.0\ref\FinanceControl.Application.dll

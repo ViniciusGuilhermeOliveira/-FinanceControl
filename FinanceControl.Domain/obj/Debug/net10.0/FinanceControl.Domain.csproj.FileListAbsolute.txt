@@ -10,3 +10,15 @@
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/Debug/net10.0/FinanceControl.Domain.pdb
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/Debug/net10.0/ref/FinanceControl.Domain.dll
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/Debug/net10.0/FinanceControl.Domain.sourcelink.json
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\bin\Debug\net10.0\FinanceControl.Domain.deps.json
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\bin\Debug\net10.0\FinanceControl.Domain.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\bin\Debug\net10.0\FinanceControl.Domain.pdb
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\obj\Debug\net10.0\FinanceControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\obj\Debug\net10.0\FinanceControl.Domain.AssemblyInfoInputs.cache
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\obj\Debug\net10.0\FinanceControl.Domain.AssemblyInfo.cs
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\obj\Debug\net10.0\FinanceControl.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\obj\Debug\net10.0\FinanceControl.Domain.sourcelink.json
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\obj\Debug\net10.0\FinanceControl.Domain.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\obj\Debug\net10.0\refint\FinanceControl.Domain.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\obj\Debug\net10.0\FinanceControl.Domain.pdb
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Domain\obj\Debug\net10.0\ref\FinanceControl.Domain.dll

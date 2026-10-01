@@ -1,37 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Api/FinanceControl.Api.csproj": {}
+    "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Api\\FinanceControl.Api.csproj": {}
   },
   "projects": {
-    "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Api/FinanceControl.Api.csproj": {
+    "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Api\\FinanceControl.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Api/FinanceControl.Api.csproj",
+        "projectUniqueName": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Api\\FinanceControl.Api.csproj",
         "projectName": "FinanceControl.Api",
-        "projectPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Api/FinanceControl.Api.csproj",
-        "packagesPath": "/home/oviniciusguilherme/.nuget/packages/",
-        "outputPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Api/obj/",
+        "projectPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Api\\FinanceControl.Api.csproj",
+        "packagesPath": "C:\\Users\\vinig\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/oviniciusguilherme/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\vinig\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/FinanceControl.Application.csproj": {
-                "projectPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/FinanceControl.Application.csproj"
+              "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Application\\FinanceControl.Application.csproj": {
+                "projectPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Application\\FinanceControl.Application.csproj"
               },
-              "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/FinanceControl.Infrastructure.csproj": {
-                "projectPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/FinanceControl.Infrastructure.csproj"
+              "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Infrastructure\\FinanceControl.Infrastructure.csproj": {
+                "projectPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Infrastructure\\FinanceControl.Infrastructure.csproj"
               }
             }
           }
@@ -46,10 +46,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
@@ -84,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.112/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.303/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -502,31 +503,31 @@
         }
       }
     },
-    "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/FinanceControl.Application.csproj": {
+    "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Application\\FinanceControl.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/FinanceControl.Application.csproj",
+        "projectUniqueName": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Application\\FinanceControl.Application.csproj",
         "projectName": "FinanceControl.Application",
-        "projectPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/FinanceControl.Application.csproj",
-        "packagesPath": "/home/oviniciusguilherme/.nuget/packages/",
-        "outputPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/obj/",
+        "projectPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Application\\FinanceControl.Application.csproj",
+        "packagesPath": "C:\\Users\\vinig\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/oviniciusguilherme/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\vinig\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/FinanceControl.Domain.csproj": {
-                "projectPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/FinanceControl.Domain.csproj"
+              "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Domain\\FinanceControl.Domain.csproj": {
+                "projectPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Domain\\FinanceControl.Domain.csproj"
               }
             }
           }
@@ -541,10 +542,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -562,7 +564,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.112/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.303/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -840,27 +842,27 @@
         }
       }
     },
-    "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/FinanceControl.Domain.csproj": {
+    "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Domain\\FinanceControl.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/FinanceControl.Domain.csproj",
+        "projectUniqueName": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Domain\\FinanceControl.Domain.csproj",
         "projectName": "FinanceControl.Domain",
-        "projectPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/FinanceControl.Domain.csproj",
-        "packagesPath": "/home/oviniciusguilherme/.nuget/packages/",
-        "outputPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Domain/obj/",
+        "projectPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Domain\\FinanceControl.Domain.csproj",
+        "packagesPath": "C:\\Users\\vinig\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/oviniciusguilherme/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\vinig\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -875,10 +877,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -896,7 +899,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.112/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.303/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1174,31 +1177,31 @@
         }
       }
     },
-    "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/FinanceControl.Infrastructure.csproj": {
+    "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Infrastructure\\FinanceControl.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/FinanceControl.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Infrastructure\\FinanceControl.Infrastructure.csproj",
         "projectName": "FinanceControl.Infrastructure",
-        "projectPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/FinanceControl.Infrastructure.csproj",
-        "packagesPath": "/home/oviniciusguilherme/.nuget/packages/",
-        "outputPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/",
+        "projectPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Infrastructure\\FinanceControl.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\vinig\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/oviniciusguilherme/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\vinig\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/FinanceControl.Application.csproj": {
-                "projectPath": "/home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Application/FinanceControl.Application.csproj"
+              "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Application\\FinanceControl.Application.csproj": {
+                "projectPath": "D:\\Repositorio\\Nova pasta\\-FinanceControl\\FinanceControl.Application\\FinanceControl.Application.csproj"
               }
             }
           }
@@ -1213,12 +1216,17 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.89, )"
+            },
             "dbup-sqlite": {
               "target": "Package",
               "version": "[6.0.4, )"
@@ -1240,7 +1248,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.112/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.303/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

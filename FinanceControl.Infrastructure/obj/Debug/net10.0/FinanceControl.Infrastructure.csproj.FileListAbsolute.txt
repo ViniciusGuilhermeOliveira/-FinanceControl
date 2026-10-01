@@ -16,3 +16,21 @@
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceControl.Infrastructure.pdb
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/ref/FinanceControl.Infrastructure.dll
 /home/oviniciusguilherme/Documentos/Repositorio/FinanceControl/FinanceControl.Infrastructure/obj/Debug/net10.0/FinanceControl.Infrastructure.sourcelink.json
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\bin\Debug\net10.0\FinanceControl.Infrastructure.deps.json
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\bin\Debug\net10.0\FinanceControl.Infrastructure.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\bin\Debug\net10.0\FinanceControl.Infrastructure.pdb
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\bin\Debug\net10.0\FinanceControl.Application.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\bin\Debug\net10.0\FinanceControl.Domain.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\bin\Debug\net10.0\FinanceControl.Application.pdb
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\bin\Debug\net10.0\FinanceControl.Domain.pdb
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\obj\Debug\net10.0\FinanceControl.Infrastructure.csproj.AssemblyReference.cache
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\obj\Debug\net10.0\FinanceControl.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\obj\Debug\net10.0\FinanceControl.Infrastructure.AssemblyInfoInputs.cache
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\obj\Debug\net10.0\FinanceControl.Infrastructure.AssemblyInfo.cs
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\obj\Debug\net10.0\FinanceControl.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\obj\Debug\net10.0\FinanceControl.Infrastructure.sourcelink.json
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\obj\Debug\net10.0\FinanceC.6FBE02E6.Up2Date
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\obj\Debug\net10.0\FinanceControl.Infrastructure.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\obj\Debug\net10.0\refint\FinanceControl.Infrastructure.dll
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\obj\Debug\net10.0\FinanceControl.Infrastructure.pdb
+D:\Repositorio\Nova pasta\-FinanceControl\FinanceControl.Infrastructure\obj\Debug\net10.0\ref\FinanceControl.Infrastructure.dll
