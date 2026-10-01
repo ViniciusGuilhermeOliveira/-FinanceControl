@@ -1,5 +1,5 @@
 create table Mnenmonico(
-    mne_id_mne integer PRIMARY KEY AUTOINCREMENT,
+    mne_id_mne INTEGER PRIMARY KEY AUTOINCREMENT,
     mne_cod_val TEXT not null,
     mne_des_mne TEXT not null 
 );

@@ -1,15 +1,22 @@
+using FinanceControl.Application.Interfaces;
+using FinanceControl.Infrastructure.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 builder.Services.AddEndpointsApiExplorer();
 
+builder.Services.AddSingleton<IDbConnectionFactory>(new SqliteConnectionFactory(connectionString));
+
 
 var app = builder.Build();
 
-string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
 
 SQLitePCL.Batteries.Init();
+
 
 if (connectionString != null)
 {
